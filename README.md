@@ -15,3 +15,11 @@
     O primeiro estudo se concentra em um dataset com grau de dificuldade moderado, permitindo uma familiarização com as operações básicas de tratamento e análise de dados, como filtros, ordenação, uso de fórmulas e criação de gráficos. Já o segundo estudo, mais avançado, envolve um dataset mais complexo, exigindo técnicas adicionais como o uso de tabelas dinâmicas, análise de correlação entre variáveis e exploração de grandes volumes de dados.
 
 </p>
+
+### Integrantes do grupo 
+
+-   Igor Soares Colonna – 119174972
+-   Pedro Alves de Araújo – 123706163
+-   Matheus Delduque Lopes da Silva – 122062207
+-   Mikaela Rikberg Alves – 119106107
+-   Lucas Barcelos de Sousa de Abreu – 123439994
